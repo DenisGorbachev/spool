@@ -42,6 +42,7 @@ See [example playthrough](#example-playthrough) to learn how much you can win.
 * Start a new game:
   * Name
   * Deadline (a datetime by which every player needs to make an investment decision)
+  * Currency (which token can be used as investment; you can choose any ERC20-compatible token)
   * Minimum capital (how much everybody needs to put into the game)
 * Join an existing game:
   * Your capital (how much you put into the game; must be greater or equal to "Minimum capital")
@@ -77,6 +78,12 @@ You will receive a 10 ETH refund.
 
 You will receive a 5 ETH refund (up to Bob's investment). 
 
+### What currency can I use for playing?
+
+You can use any ERC20-compatible token: WETH, WBTC, UNI, SUSHI, LINK, COMP, LEND...
+
+Note: the currency is set by the creator of the game before it starts (every player uses the same currency).
+
 ### Can I invest in multiple pools?
 
 Yes, you can diversify your investments between multiple pools.
@@ -103,5 +110,12 @@ Example:
 We charge 2.5% of winnings (after [refunds](#how-can-i-receive-a-refund-of-my-investment) and [referrals](#how-can-i-receive-a-referral-fee)).
 
 ## Example playthrough
+
+*Alice joins the game with 5 ETH*
+*Bob joins the game with 10 ETH*
+*Sam joins the game with 7 ETH*
+*Joe joins the game with 3 ETH*
+*Ted joins the game with 15 ETH*
+
 
 ## Strategies
