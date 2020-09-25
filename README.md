@@ -17,7 +17,7 @@ See [example playthrough](#example-playthrough) for more details.
 **Notes:**
 
 * You will **receive 1% of all winnings** if you start a new game & invite other players (no need to win - [learn more](#how-can-i-receive-a-referral-fee)).
-* You will **receive a refund** if somebody else invests in your pool (up to the sum of other players' investments - [learn more](#how-can-i-receive-a-refund))  
+* You will **receive a refund** if somebody else invests in your pool (up to the sum of foreign investments - [learn more](#how-can-i-receive-a-refund)).
 
 ## Alternative strategy
 
@@ -60,11 +60,22 @@ Start a new game to receive 1% of all winnings.
 
 ### How can I receive a refund of my investment?
 
-Convince other players to invest in your pool
+Convince other players to invest in your pool. If you don't win, you will receive a refund up to the sum they invested in your pool. If you do win, you will receive a refund + winnings.
 
-* You will **receive a refund** if somebody else invests in your pool (up to the sum of other players' investments - [learn more](#how-can-i-receive-a-refund))  
+#### Example #1
 
-The creator of the winning pool is getting his money back anyway (plus winnings), so he doesn't need a refund.
+* You invest 10 ETH in your pool.
+* Bob invests 20 ETH in your pool.
+
+You will receive a 10 ETH refund.
+
+#### Example #2
+
+* You invest 10 ETH in your pool.
+* You invest 2 ETH in Alice's pool.
+* Bob invest 5 ETH in your pool.
+
+You will receive a 5 ETH refund (up to Bob's investment). 
 
 ### Can I invest in multiple pools?
 
